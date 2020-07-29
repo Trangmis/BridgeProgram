@@ -1,5 +1,3 @@
-1117,Yes,Black,2000,41,Male,No,No,3
-1118,Yes,White,2002,41,Male,Yes,Yes,0
 OrderNo,released,colour,year,age,sex,employed,citizen,checks
 1,Yes,White,2002,21,Male,Yes,Yes,3
 2,No,Black,1999,17,Male,Yes,Yes,3
@@ -5225,3 +5223,5 @@ OrderNo,released,colour,year,age,sex,employed,citizen,checks
 5224,Yes,Black,1999,21,Female,Yes,Yes,1
 5225,No,Black,1998,24,Male,Yes,Yes,4
 5226,Yes,White,1999,16,Male,Yes,Yes,3
+1117,Yes,Black,2000,41,Male,No,No,3
+1118,Yes,White,2002,41,Male,Yes,Yes,0
